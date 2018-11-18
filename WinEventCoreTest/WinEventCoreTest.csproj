@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="System.Diagnostics.EventLog">
+      <HintPath>D:\Area_51\Desktop\corefxVance2\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.EventLog\netcoreapp\System.Diagnostics.EventLog.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
